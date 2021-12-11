@@ -3,7 +3,7 @@ from random import randint
 from time import time as timer
 
 #let's make a game
-
+# ho ho ho
 class GameSprite(sprite.Sprite):
    def __init__(self, player_image, player_x, player_y, size_x, size_y, player_speed):
        sprite.Sprite.__init__(self)
